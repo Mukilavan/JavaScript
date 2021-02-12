@@ -1,2 +1,2 @@
-# JavaScript
-This for javascript
+# Linked List
+This for linked list
